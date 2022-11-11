@@ -1,0 +1,23 @@
+{
+  "name": "basic-algorithm-scripting",
+  "version": "1.0.0",
+  "description": "Basic Algorithm Scripting",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node js/celsiusToFahrenheit.js",
+    "factorialize":"node js/factorializeNumber.js",
+    "find":"node js/findLongestWord.js",
+    "reverse":"node js/reverseString.js",
+    "title":"node js/titleCase.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentchallenger/basic-algorithm-scripting.git"
+  },
+  "author": "Rustu Mesut Eser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentchallenger/basic-algorithm-scripting/issues"
+  },
+  "homepage": "https://github.com/silentchallenger/basic-algorithm-scripting#readme"
+}
